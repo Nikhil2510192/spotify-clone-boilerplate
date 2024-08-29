@@ -1,0 +1,151 @@
+body{
+    margin-top: 20px;
+}
+
+
+.v1{
+
+    background-color: blue;
+    width: 300px;
+    height: 100vh;
+
+}
+.s1 img{
+    background-color: black;
+    width: 200px;
+    height: 60px;
+}
+
+.h1{
+    display: flex ;
+    gap: 20px;
+}
+.h1 img{
+    height: 40px;
+    width: 50px;
+}
+.h2{
+    display: flex;
+    gap: 20px;
+}
+.h2 img{
+    height: 40px;
+    width: 50px;
+}
+.h3{
+    display: flex;
+    gap: 20px;
+}
+.h3 img {
+    height: 40px;
+    width: 50px;
+}
+.s1{
+    background-color: aqua;
+    width: 200px;
+
+}
+.s2{
+    background-color: bisque;
+    margin-top: 30px;
+    width: 200px;
+}
+.s3{
+    background-color: blueviolet;
+    margin-top: 30px;
+    width: 200px;
+}
+.c1{
+    display: flex;
+    gap: 20px;
+}
+.c1 img {
+    height: 40px;
+    width: 50px;
+}
+.c2{
+    display: flex;
+    gap: 20px;
+}
+.c2 img {
+    height: 40px;
+    width: 50px;
+}
+.c3 img {
+    height: 40px;
+    width: 50px;
+}
+.c3{
+    display: flex;
+    gap: 20px;
+}
+.i1{
+    display: flex;
+    gap: 20px;
+}
+.i1 img{
+    height: 40px;
+    width: 50px;
+}
+.play img{
+    position: absolute;
+    top: 2%;
+    left: 25%;
+    height: 30px;
+    width: 80px;
+}
+.top{
+    position: absolute;
+    top:10% ;
+    left: 20% ;
+
+}
+.t1{
+    display: flex;
+    background-color: blue;
+    width: 1200px;
+
+}
+.im1{
+width: 300px;
+background-color: beige;
+height: 100px;
+display: flex;
+gap: 20px;
+}
+.im1 img{
+    height: 100px;
+}
+.im2{
+    width: 300px;
+    background-color: beige;
+    height: 100px;
+    display: flex;
+    gap: 20px;
+    }
+    .im2 img{
+        height: 100px;
+    }
+    .im3{
+        width: 200px;
+        background-color: beige;
+        height: 100px;
+        display: flex;
+        gap: 20px;
+
+        }
+        .im3 img{
+            height: 100px;
+        }
+        .im4{
+            width: 100px;
+            background-color: beige;
+            height: 100px;
+            display: flex;
+            gap: 30px;
+            }
+            .im4 img{
+                height: 100px;
+        
+            }
+                        
